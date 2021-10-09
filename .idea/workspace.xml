@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aafc08e-eae5-4dda-be07-d50d5c4357a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/config/Servers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/config/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/config/WebDriverConfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/log.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/config/AutomationSFDC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/config/ServersConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/config/UsersConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/WebDriverConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/WebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/WebDriverTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/webdrivers/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/webdrivers/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/webdrivers/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/webdrivers/FireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/selenium/webdrivers/IDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/PageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/PageTransporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/DressesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/TopsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/WomanPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/subcategory/Blouses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/subcategory/CasualDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/subcategory/EveningDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/subcategory/SummerDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/category/subcategory/TShirts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/AddressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/PayBankCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/PayCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/ShippingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/ui/order/ShoppingSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/main/java/com/automation/utils/JsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/test/java/com/automation/hooks/ScenarioHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/test/java/com/automation/steps/buyProductSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/test/java/com/automation/steps/loginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/test/resources/features/buy_products.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/testing">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zFRFDl26wjLayZCkT3wlKGFqdj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testing" />
+      <recent name="$PROJECT_DIR$/testing/src/test/resources" />
+      <recent name="$PROJECT_DIR$/testing/src/test/java/com/automation" />
+      <recent name="$PROJECT_DIR$/testing/src/main/java/com/automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: buy_products">
+    <configuration name="Feature: buy_products" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/testing/src/test/resources/features/buy_products.feature" />
+      <option name="GLUE" value="com.automation.hooks com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="testing.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: buy_products" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome -Dserver=DevOrg01" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/testing/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="com.automation.hooks com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="testing.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome -Dserver=DevOrg01" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testing [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/testing" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: login" />
+      <item itemvalue="Cucumber Java.Feature: buy_products" />
+      <item itemvalue="Gradle.testing [dependencies]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: buy_products" />
+        <item itemvalue="Cucumber Java.Feature: login" />
+        <item itemvalue="Gradle.testing [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aafc08e-eae5-4dda-be07-d50d5c4357a0" name="Default Changelist" comment="" />
+      <created>1633741744045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633741744045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633745928353">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1633745928353" />
+    <state x="676" y="431" key="#xdebugger.evaluate" timestamp="1633744336808">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="676" y="431" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1633744336808" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1633746453550">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633746453550" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1633746453550">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633746453550" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1633746453550">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633746453550" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1633746453550">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633746453550" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1633745591469">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633745591469" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1633745591469">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633745591469" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1633745591469">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633745591469" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1633745591469">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633745591469" />
+    <state x="281" y="133" width="1347" height="848" key="new project wizard" timestamp="1633742109342">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="281" y="133" width="1347" height="848" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1633742109342" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testing/src/test/java/com/automation/steps/loginSteps.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
